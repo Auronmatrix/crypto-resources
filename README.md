@@ -6,6 +6,9 @@ Interesting links to things crypto related
 
 - [J. Lopp's Bitcoin Resources](https://lopp.net/bitcoin.html)
 
+## Tools
+- [A self-contained read-only CD/USB stick with everything you need to perform highly secure air-gapped Bitcoin transactions. Offline cold storage made (slightly more) practical](https://github.com/bitkey/bitkey)
+
 ## News
 
 - [cryptopanic](https://cryptopanic.com/)
